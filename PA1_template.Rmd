@@ -1,8 +1,8 @@
 ---
-title: "PA1_template"
+title: "Reproducible Research Peer Assesment 1"
 author: "Devara Izaz Fathan"
 date: "8/17/2020"
-output: html_document
+output: md_document
 ---
 #Add The Packages
 Add the packages needed in this projcet
